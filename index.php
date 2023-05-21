@@ -9,5 +9,8 @@
 <body>
     <h1>Hello Cok</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel praesentium ab sapiente blanditiis amet architecto atque, corporis nam suscipit fugit at, neque voluptatum accusamus, maiores non dicta mollitia molestiae minima!</p>
+    <ul>
+        <li>Satu</li>
+    </ul>
 </body>
 </html>
